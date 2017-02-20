@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="Project Version VR.CSharp.csproj">
+﻿<Properties StartupItem="Project Version VR.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MyllennoPhoneVR.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MovementCamera.cs">
     <Files>
-      <File FileName="Assets\scripts\MyllennoPhoneVR.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\MovementCamera.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\..\..\Downloads\UserInterfaceButtons.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
